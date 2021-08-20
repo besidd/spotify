@@ -1,4 +1,4 @@
-package com.example.spotify
+package com.app.spotify
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
