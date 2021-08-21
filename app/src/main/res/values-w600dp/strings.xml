@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="network_error_message">Couldn\'t connect to the the server, Please check your Internet Connection.</string>
+    <string name="connection_suspended">Connection was suspended</string>
+    <string name="connection_establishment_error">Couldn\'t establish a connection</string>
+</resources>
